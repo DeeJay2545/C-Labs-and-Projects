@@ -1,4 +1,4 @@
-# C-Labs-and-Projects
+# C Labs & Projects
 Labs and projects from Spring 2020. All code is in C.
 
 Automatic Dog Feeder Demonstration --> https://youtu.be/3EpB-lV7fl0
